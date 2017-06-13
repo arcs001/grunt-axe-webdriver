@@ -1,16 +1,16 @@
 {
-  "name": "grunt-axe-webdriver-private",
-  "description": "Grunt plugin for aXe utilizing WebDriverJS",
-  "version": "0.0.13",
-  "homepage": "https://github.com/dequelabs/grunt-axe-webdriver",
-  "author": " (http://deque.com/)",
+  "name": "grunt-axe-webdriver-customscripts",
+  "description": "Grunt plugin for aXe utilizing WebDriverJS with Custom Scripts, based on the work of https://github.com/dequelabs/grunt-axe-webdriver",
+  "version": "0.0.1",
+  "homepage": "https://github.com/arcs001/grunt-axe-webdriver-customscripts",
+  "author": " Alexandre Campos and Vinicius Martins",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dequelabs/grunt-axe-webdriver.git"
+    "url": "git://github.com/arcs001/grunt-axe-webdriver-customscripts.git"
   },
   "bugs": {
-    "url": "https://github.com/dequelabs/grunt-axe-webdriver/issues"
+    "url": "https://github.com/arcs001/grunt-axe-webdriver-customscripts/issues"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -52,7 +52,9 @@
   },
   "contributors": [
     "David Sturley",
-    "Dylan Barrell"
+    "Dylan Barrell",
+    "Alexandre Campos",
+    "Vinicius Martins"
   ],
   "main": "0.0.3",
   "directories": {
